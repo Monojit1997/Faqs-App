@@ -1,0 +1,24 @@
+/* Write your code here. */
+* {
+  font-family: roboto;
+}
+.bg-container {
+  background-color: #f1f5f8;
+  padding: 20px;
+  box-shadow: 0px 4px 16px 0;
+}
+.card-container {
+  background-color: #ffffff;
+  margin: 20px;
+  padding: 10px;
+  border-radius: 20px;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+.main-heading {
+  color: #cb8805;
+  font-weight: bold;
+  font-size: 50px;
+}
